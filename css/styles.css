@@ -87,7 +87,7 @@ p {
     position: static;
   }
 
-  .container-fluid {
+  #title .container-fluid {
     padding-bottom: 0;
   }
 
